@@ -118,7 +118,7 @@ template GUEST
 !
 template BASECONFIG
  description BASE CONFIG
- switchport access vlan 999
+ switchport access vlan 10
  switchport mode access
 !
 ##Macros

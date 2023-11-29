@@ -1,0 +1,25 @@
+POD-10-device_inventory:
+- hostname: c9300-1.dcloud.cisco.com
+  device_ip: 198.19.1.2
+  device_id: edd2b55e-9dca-42b5-be06-6738d1264b4a
+  version: 17.9.2
+  device_family: Cisco Catalyst 9300 Switch
+  role: ACCESS
+  site: null
+  site_id: 768efbac-f004-4801-b98e-4e1aa9f64bfd
+- hostname: c9300-2.dcloud.cisco.com
+  device_ip: 198.19.2.2
+  device_id: f945d86f-88de-4069-a04c-838e210833dd
+  version: 17.9.2
+  device_family: Cisco Catalyst 9300 Switch
+  role: ACCESS
+  site: null
+  site_id: 768efbac-f004-4801-b98e-4e1aa9f64bfd
+- hostname: isr4331.dcloud.cisco.com
+  device_ip: 198.18.133.145
+  device_id: a359389a-7405-4bba-aaff-53ec8e085e10
+  version: 17.9.2a
+  device_family: Cisco 4331 Integrated Services Router
+  role: BORDER ROUTER
+  site: null
+  site_id: 768efbac-f004-4801-b98e-4e1aa9f64bfd
